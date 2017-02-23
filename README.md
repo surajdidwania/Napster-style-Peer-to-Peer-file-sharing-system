@@ -1,1 +1,3 @@
-# Assignment1_NP
+Peer-To-Peer (P2P) Technologies have been widely used for Content Sharing. Some of the existing examples of P2P File sharing applications are Napster, Gnutella, Free net etc. The Design of these systems is the concept of files distributed throughout Nodes. The P2P system is different from the older Client/Server Models where the files would reside on one Central Server and all the transfers would happen only between the Central Server and the Clients. In P2P File Sharing Application, the File transfer can occur between the individual Nodes/Peers.
+To Design and learn the internals of Napster-style Peer-to-Peer File sharing System.
+Also to familiarize with the concepts of RMI, Processes, Threads and events.
