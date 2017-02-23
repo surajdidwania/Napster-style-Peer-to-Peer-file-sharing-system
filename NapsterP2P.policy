@@ -1,0 +1,3 @@
+grant codeBase "file:C:/Users/Suraj%20Didwania/workspace/NapsterP2P/bin/" {
+  permission java.security.AllPermission;
+};

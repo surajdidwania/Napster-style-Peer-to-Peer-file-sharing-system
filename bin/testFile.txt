@@ -1,0 +1,15 @@
+C:\Program Files\Java\jdk1.8.0_91\bin
+
+rmic CentralServer.PeerServer
+
+rmic Peer.PeerClient
+
+rmiregistry 6757
+
+java CentralServer.PeerServerDriver 6757
+
+java Peer.PeerClientDriver Bokito
+
+java -cp C:\Users\Lawrence\workspace\P2P_FileSharingSys\bin Peer.PeerClientDriver Bokito
+
+
